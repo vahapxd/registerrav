@@ -121,5 +121,5 @@ let data = await new UserData({ UserID: member.id, Name: namedata.LastName, Proc
 });
 
 
-client.login(settings.botToken);
+client.login(process.env.token);
 // ------------------[ END ]------------------ \\
