@@ -1,0 +1,30 @@
+{
+  "botToken": "OTcxNzg5MTAxNDI4NzkzMzU0.YnPnIA.YQL3lYjQefNedS0mtiGKEmfvCp8",
+  "botOwner": "728931818182541392",
+  "botPrefix": ".",
+  "botVoiceChannel": "971006901980626993",
+  "botActivityName": "Kiezsaxd 💜 Vahap",
+  "botActivityType": "WATCHING",
+  "botStatus": "idle",
+
+  "mongoConnectionLink": "mongodb+srv://rencia:Vahap2020@cluster0.jxyds.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+
+  "welcomeChannel": "971006902295224346",
+  "rulesChannel": "971006902534295557",
+  "Suspicious": "971006901779312708",
+  "Unregistered": "971006901800296467",
+
+
+  "FamilyRole": "971006901854826559",
+  "Tag": "✯",
+  "Untag": "✯",
+
+  "RegisterStaff": ["962287911607365662","728931818182541392","891356730963931246"],
+  "ManRole": ["971006901829652540", "971006901829652542"], 
+  "WomanRole": ["971006901829652541", "971006901829652542"],
+  "BoosterRole": "",
+
+  "Yes": "✅",
+  "No": "❌"
+
+}
